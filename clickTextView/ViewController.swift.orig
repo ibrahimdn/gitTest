@@ -15,6 +15,14 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("2. commit")
         print("3. commit")
+<<<<<<< HEAD
+        print("8. commit")
+=======
+        print("5. commit")
+>>>>>>> a87271c2efc6909fa74d9bf2d1933149acd040ef
     }
+    
+    
+
 }
 
