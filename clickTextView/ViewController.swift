@@ -18,7 +18,6 @@ class ViewController: UIViewController {
         print("4. commit")
         print("5. commit")
         print("6. commit")
-        print("7. commit")
     }
 }
 
